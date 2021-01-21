@@ -1,0 +1,29 @@
+{
+    "flowers": [
+        {
+            "id": 1,
+            "commonName": "Aster",
+            "color": "Purple"
+        },
+        {
+            "id": 2,
+            "commonName": "Begonia",
+            "color": "Scarlet"
+        },
+        {
+            "id": 3,
+            "commonName": "Buttercup",
+            "color": "Yellow"
+        },
+        {
+            "id": 4,
+            "commonName": "Rose",
+            "color": "Red"
+        },
+        {
+            "id": 5,
+            "commonName": "Violet",
+            "color": "Blue"
+        }
+    ]
+}
