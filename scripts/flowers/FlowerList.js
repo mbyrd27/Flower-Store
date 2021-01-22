@@ -11,5 +11,7 @@ export const FlowerList = () => {
 
 const render = (flowerList) => {
     const contentTarget = document.querySelector('.flowers')
-    contentTarget.innerHTML = flowerList.map(flower => Flower(flower)).join('')
+    contentTarget.innerHTML = 
+    `<h2>Flowers</h2>
+    ${flowerList.map(flower => Flower(flower)).join('')}`
 }

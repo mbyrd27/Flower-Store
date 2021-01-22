@@ -25,5 +25,43 @@
             "commonName": "Violet",
             "color": "Blue"
         }
+    ],
+
+    "retailers": [
+        {
+            "id": 1,
+            "name": "Doug's Lilies",
+            "city": "Cleveland",
+            "state": "Ohio",
+            "address": "1200 Buckeye Ave"
+        },
+        {
+            "id": 2,
+            "name": "Spring Fresh",
+            "city": "Raleigh",
+            "state": "North Carolina",
+            "address": "180 Sir Walter Street"
+        },
+        {
+            "id": 3,
+            "name": "Flower Power",
+            "city": "San Francisco",
+            "state": "California",
+            "address": "1946 Bayside Dr"
+        },
+        {
+            "id": 4,
+            "name": "In Bloom",
+            "city": "Seattle",
+            "state": "Washington",
+            "address": "880 Umbrella Place"
+        },
+        {
+            "id": 5,
+            "name": "Friendly Garden",
+            "city": "Nashville",
+            "state": "Tennessee",
+            "address": "1308 Harding Pike"
+        }
     ]
 }
