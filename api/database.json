@@ -33,35 +33,64 @@
             "name": "Doug's Lilies",
             "city": "Cleveland",
             "state": "Ohio",
-            "address": "1200 Buckeye Ave"
+            "address": "1200 Buckeye Ave",
+            "distributorId": 1
         },
         {
             "id": 2,
             "name": "Spring Fresh",
             "city": "Raleigh",
             "state": "North Carolina",
-            "address": "180 Sir Walter Street"
+            "address": "180 Sir Walter Street",
+            "distributorId": 2
         },
         {
             "id": 3,
             "name": "Flower Power",
             "city": "San Francisco",
             "state": "California",
-            "address": "1946 Bayside Dr"
+            "address": "1946 Bayside Dr",
+            "distributorId": 3
         },
         {
             "id": 4,
             "name": "In Bloom",
             "city": "Seattle",
             "state": "Washington",
-            "address": "880 Umbrella Place"
+            "address": "880 Umbrella Place",
+            "distributorId": 3
         },
         {
             "id": 5,
             "name": "Friendly Garden",
             "city": "Nashville",
             "state": "Tennessee",
-            "address": "1308 Harding Pike"
+            "address": "1308 Harding Pike",
+            "distributorId": 2
+        }
+    ],
+
+    "distributors": [
+        {
+            "id": 1,
+            "name": "Flowers Direct",
+            "city": "Indianapolis",
+            "state": "Indiana",
+            "address": "212 Raceway Blvd."
+        },
+        {
+            "id": 2,
+            "name": "Southern Charm Shipping",
+            "city": "Birmingham",
+            "state": "Alabama",
+            "address": "1919 Gateway Dr."
+        },
+        {
+            "id": 3,
+            "name": "Chrisanthemum Express",
+            "city": "Oakland",
+            "state": "California",
+            "address": "8860 Overby Rd."
         }
     ]
 }
