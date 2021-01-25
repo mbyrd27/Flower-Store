@@ -92,5 +92,114 @@
             "state": "California",
             "address": "8860 Overby Rd."
         }
+    ],
+
+    "nurseries": [
+        {
+            "id": 1,
+            "name": "Greenhouse Gateway"
+        },
+        {
+            "id": 2,
+            "name": "Sunshine Nursery"
+        },
+        {
+            "id": 3,
+            "name": "Owl Creek Growers"
+        },
+        {
+            "id": 4,
+            "name": "Rainforest Nursery"
+        },
+        {
+            "id": 5,
+            "name": "Tegridy Farms"
+        }
+    ],
+
+    "nurseryFlowers": [
+        {
+            "id": 1,
+            "nurseryId": 1,
+            "flowerId": 3
+        },
+        {
+            "id": 2,
+            "nurseryId": 1,
+            "flowerId": 1
+        },
+        {
+            "id": 3,
+            "nurseryId": 2,
+            "flowerId": 4
+        },
+        {
+            "id": 4,
+            "nurseryId": 2,
+            "flowerId": 5
+        },
+        {
+            "id": 5,
+            "nurseryId": 3,
+            "flowerId": 2
+        },
+        {
+            "id": 6,
+            "nurseryId": 3,
+            "flowerId": 4
+        },
+        {
+            "id": 7,
+            "nurseryId": 4,
+            "flowerId": 1
+        },
+        {
+            "id": 8,
+            "nurseryId": 4,
+            "flowerId": 5
+        },
+        {
+            "id": 9,
+            "nurseryId": 5,
+            "flowerId": 3
+        },
+        {
+            "id": 10,
+            "nurseryId": 5,
+            "flowerId": 1
+        }
+    ],
+
+    "distributorNurseries": [
+        {
+            "id": 1,
+            "distributorId": 1,
+            "nurseryId": 1
+        },
+        {
+            "id": 2,
+            "distributorId": 1,
+            "nurseryId": 5
+        },
+        {
+            "id": 3,
+            "distributorId": 2,
+            "nurseryId": 3
+        },
+        {
+            "id": 4,
+            "distributorId": 2,
+            "nurseryId": 4
+        },
+        {
+            "id": 5,
+            "distributorId": 3,
+            "nurseryId": 2
+        },
+        {
+            "id": 6,
+            "distributorId": 3,
+            "nurseryId": 3
+        }
     ]
 }
